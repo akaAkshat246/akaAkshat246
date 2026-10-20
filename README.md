@@ -11,8 +11,8 @@
 <!-- STATUS PILLS & VISITOR COUNTER -->
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Building%20High--Impact%20Systems-00f0ff?style=for-the-badge&labelColor=0d1117" alt="Status Badge"/>
-  <img src="https://komarev.com/ghpvc/?username=akaAkshat246&style=for-the-badge&color=ff007f&label=PROFILE+VISITORS&base=100" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/Contributions-4%2C900%2B-7000ff?style=for-the-badge&labelColor=0d1117&logo=github" alt="Contributions Badge"/>
+  <img src="https://hits.sh/github.com/akaAkshat246.svg?style=for-the-badge&label=PROFILE%20VIEWS&color=ff007f&labelColor=0d1117" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Contributions-5%2C000%2B-7000ff?style=for-the-badge&labelColor=0d1117&logo=github" alt="Contributions Badge"/>
   <img src="https://img.shields.io/badge/Focus-Cloud%20and%20Edge%20Systems-00f0ff?style=for-the-badge&labelColor=0d1117" alt="Focus Badge"/>
 </p>
 
