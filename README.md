@@ -65,186 +65,144 @@
 </div>
 
 
-## Featured Projects
+## Featured Projects & Innovations
 
-<table>
+<table width="100%">
+  <!-- ROW 1: FLAGSHIP PLATFORMS -->
   <tr>
     <td width="50%" valign="top">
-      <details>
-        <summary>
-          <b>AarogyaGrid AI</b><br/>
-          <sub>Healthcare Resource Intelligence</sub><br/>
-          <img src="https://img.shields.io/badge/Click_to_Flip_Card-00F0FF?style=flat-square"/>
-        </summary>
-        <hr/>
-        <b>Overview</b><br/>
-        Predictive healthcare resource management platform leveraging AI, data engineering, and Google Cloud to forecast hospital bed and critical resource demand.
-        <br/><br/>
+      <a href="https://aarogya-grid-ai-alpha.vercel.app/" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akaAkshat246&repo=AarogyaGrid-AI&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=7000FF&text_color=E6EDF3" width="100%" alt="AarogyaGrid AI Pin" />
+      </a>
+      <br/>
+      <p align="center">
         <a href="https://aarogya-grid-ai-alpha.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Demo-00F0FF?style=flat-square&logo=vercel&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Live_Demo-00F0FF?style=for-the-badge&logo=vercel&logoColor=black"/>
         </a>
         &nbsp;
         <a href="https://github.com/akaAkshat246/AarogyaGrid-AI" target="_blank">
-          <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github"/>
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
         </a>
-        <br/><br/>
-        <code>React</code> <code>GCP</code> <code>AI/ML</code> <code>Node.js</code>
-      </details>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <details>
-        <summary>
-          <b>ABES Event Nexus</b><br/>
-          <sub>Autonomous Campus Ecosystem</sub><br/>
-          <img src="https://img.shields.io/badge/Click_to_Flip_Card-7000FF?style=flat-square"/>
-        </summary>
-        <hr/>
-        <b>Overview</b><br/>
-        Unified event management and engagement platform built for ABES Engineering College, featuring real-time registrations, schedules, and student interaction.
-        <br/><br/>
+      <a href="https://abes-nexus.onrender.com" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akaAkshat246&repo=ABES-Event-Nexus&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7000FF&icon_color=00F0FF&text_color=E6EDF3" width="100%" alt="ABES Event Nexus Pin" />
+      </a>
+      <br/>
+      <p align="center">
         <a href="https://abes-nexus.onrender.com" target="_blank">
-          <img src="https://img.shields.io/badge/Live_App-7000FF?style=flat-square&logo=render&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Live_App-7000FF?style=for-the-badge&logo=render&logoColor=white"/>
         </a>
         &nbsp;
         <a href="https://github.com/akaAkshat246/ABES-Event-Nexus" target="_blank">
-          <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github"/>
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
         </a>
-        <br/><br/>
-        <code>TypeScript</code> <code>Node.js</code> <code>REST</code>
-      </details>
+      </p>
     </td>
   </tr>
+
+  <!-- ROW 2: 3D WEBGL & EDGE PLATFORMS -->
   <tr>
     <td width="50%" valign="top">
-      <details>
-        <summary>
-          <b>Koko AI (haX-Baby)</b><br/>
-          <sub>3D Baby Panda Companion</sub><br/>
-          <img src="https://img.shields.io/badge/Click_to_Flip_Card-FF007F?style=flat-square"/>
-        </summary>
-        <hr/>
-        <b>Overview</b><br/>
-        Interactive 3D virtual companion powered by real-time WebGL rendering and conversational intelligence.
-        <br/><br/>
+      <a href="https://ha-x-baby-ten.vercel.app/" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akaAkshat246&repo=haX-Baby&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF007F&icon_color=7000FF&text_color=E6EDF3" width="100%" alt="haX-Baby Pin" />
+      </a>
+      <br/>
+      <p align="center">
         <a href="https://ha-x-baby-ten.vercel.app/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_3D-FF007F?style=flat-square&logo=vercel&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Live_3D_Companion-FF007F?style=for-the-badge&logo=vercel&logoColor=white"/>
         </a>
         &nbsp;
         <a href="https://github.com/akaAkshat246/haX-Baby" target="_blank">
-          <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github"/>
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
         </a>
-        <br/><br/>
-        <code>Next.js</code> <code>Three.js</code> <code>TypeScript</code> <code>AI</code>
-      </details>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <details>
-        <summary>
-          <b>Brawnsterdam (AVS DA GR8)</b><br/>
-          <sub>Edge Telemetry and Cloud Engine</sub><br/>
-          <img src="https://img.shields.io/badge/Click_to_Flip_Card-F38020?style=flat-square"/>
-        </summary>
-        <hr/>
-        <b>Overview</b><br/>
-        Low-latency serverless web application engineered directly onto Cloudflare Workers edge network with instantaneous response times.
-        <br/><br/>
+      <a href="https://brawnsterdam.akshatavs1122.workers.dev/" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akaAkshat246&repo=Brawnsterdam&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F38020&icon_color=00F0FF&text_color=E6EDF3" width="100%" alt="Brawnsterdam Pin" />
+      </a>
+      <br/>
+      <p align="center">
         <a href="https://brawnsterdam.akshatavs1122.workers.dev/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Edge-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Live_Edge_App-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
         </a>
         &nbsp;
         <a href="https://github.com/akaAkshat246/Brawnsterdam" target="_blank">
-          <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github"/>
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
         </a>
-        <br/><br/>
-        <code>Cloudflare Workers</code> <code>JavaScript</code> <code>Edge</code>
-      </details>
+      </p>
     </td>
   </tr>
+
+  <!-- ROW 3: COMMUNITY TOOLS & AI DIAGNOSTICS -->
   <tr>
     <td width="50%" valign="top">
-      <details>
-        <summary>
-          <b>Debug Assistant</b><br/>
-          <sub>AI Diagnostic and Code Resolver</sub><br/>
-          <img src="https://img.shields.io/badge/Click_to_Flip_Card-00F0FF?style=flat-square"/>
-        </summary>
-        <hr/>
-        <b>Overview</b><br/>
-        Automated AI-assisted code debugging assistant that diagnoses stack traces, pinpoints logic flaws, and synthesizes tested patches.
-        <br/><br/>
-        <a href="https://debug-assistant-5g7p.onrender.com" target="_blank">
-          <img src="https://img.shields.io/badge/Live_Tool-00F0FF?style=flat-square&logo=render&logoColor=black"/>
-        </a>
-        <br/><br/>
-        <code>Python</code> <code>AI/LLM</code> <code>Diagnostic Engine</code>
-      </details>
-    </td>
-    <td width="50%" valign="top">
-      <details>
-        <summary>
-          <b>EcoScore Extension</b><br/>
-          <sub>Sustainable Shopping Intelligence</sub><br/>
-          <img src="https://img.shields.io/badge/Click_to_Flip_Card-E3A008?style=flat-square"/>
-        </summary>
-        <hr/>
-        <b>Overview</b><br/>
-        Chrome browser extension delivering real-time environmental footprint analysis and sustainable alternatives while shopping online. <b>16+ Community Stars</b>.
-        <br/><br/>
+      <a href="https://github.com/akaAkshat246/EcoScore-Browser-Extension" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akaAkshat246&repo=EcoScore-Browser-Extension&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E3A008&icon_color=00F0FF&text_color=E6EDF3" width="100%" alt="EcoScore Pin" />
+      </a>
+      <br/>
+      <p align="center">
         <a href="https://github.com/akaAkshat246/EcoScore-Browser-Extension" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub_Stars-16-yellow?style=flat-square&logo=github"/>
+          <img src="https://img.shields.io/badge/GitHub_Stars-16-yellow?style=for-the-badge&logo=github"/>
         </a>
-        <br/><br/>
-        <code>JavaScript</code> <code>Chrome API</code> <code>Manifest V3</code>
-      </details>
+        &nbsp;
+        <a href="https://github.com/akaAkshat246/EcoScore-Browser-Extension" target="_blank">
+          <img src="https://img.shields.io/badge/Manifest_V3-30363d?style=for-the-badge"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <blockquote style="margin: 0; padding: 16px; border-left: 3px solid #00F0FF; background: #0D1117; border-radius: 8px;">
+        <h4 style="margin: 0; color: #00F0FF;">Debug Assistant</h4>
+        <p style="margin: 8px 0; font-size: 13px; color: #c9d1d9;">Automated AI code diagnostic engine that inspects stack traces, isolates defects, and synthesizes validated patches.</p>
+        <p align="center">
+          <a href="https://debug-assistant-5g7p.onrender.com" target="_blank">
+            <img src="https://img.shields.io/badge/Launch_Tool-00F0FF?style=for-the-badge&logo=render&logoColor=black"/>
+          </a>
+          &nbsp;
+          <img src="https://img.shields.io/badge/Python_AI-181717?style=for-the-badge&logo=python"/>
+        </p>
+      </blockquote>
     </td>
   </tr>
+
+  <!-- ROW 4: SENSORY & EXPERIENTIAL CREATIONS -->
   <tr>
     <td width="50%" valign="top">
-      <details>
-        <summary>
-          <b>MoodScape</b><br/>
-          <sub>Interactive Sensory Canvas</sub><br/>
-          <img src="https://img.shields.io/badge/Click_to_Flip_Card-00C7B7?style=flat-square"/>
-        </summary>
-        <hr/>
-        <b>Overview</b><br/>
-        Immersive audio-visual sensory moodscape designed with creative algorithms, fluid canvas interactions, and ambient soundscapes.
-        <br/><br/>
+      <a href="https://akaakshat246.github.io/my-project/" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akaAkshat246&repo=my-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=7000FF&text_color=E6EDF3" width="100%" alt="MoodScape Pin" />
+      </a>
+      <br/>
+      <p align="center">
         <a href="https://akaakshat246.github.io/my-project/" target="_blank">
-          <img src="https://img.shields.io/badge/Live_AudioVisual-00F0FF?style=flat-square&logo=githubpages&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Live_Canvas-00C7B7?style=for-the-badge&logo=githubpages&logoColor=black"/>
         </a>
         &nbsp;
         <a href="https://github.com/akaAkshat246/my-project" target="_blank">
-          <img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github"/>
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
         </a>
-        <br/><br/>
-        <code>Canvas API</code> <code>Audio FX</code> <code>JavaScript</code>
-      </details>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <details>
-        <summary>
-          <b>Experiential Creations</b><br/>
-          <sub>Festive Interactive Showcase</sub><br/>
-          <img src="https://img.shields.io/badge/Click_to_Flip_Card-E0234E?style=flat-square"/>
-        </summary>
-        <hr/>
-        <b>Overview</b><br/>
-        High-fidelity festive web experiences featuring particle physics, particle fireworks, and interactive touch responses.
-        <br/><br/>
-        <a href="https://janamashtamii.netlify.app" target="_blank">
-          <img src="https://img.shields.io/badge/Janmashtami-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
-        </a>
-        &nbsp;
-        <a href="https://github.com/akaAkshat246/Merry_Christmas" target="_blank">
-          <img src="https://img.shields.io/badge/Christmas-E0234E?style=flat-square&logo=github"/>
-        </a>
-        <br/><br/>
-        <code>CSS Keyframes</code> <code>Particle Canvas</code> <code>HTML5</code>
-      </details>
+      <blockquote style="margin: 0; padding: 16px; border-left: 3px solid #E0234E; background: #0D1117; border-radius: 8px;">
+        <h4 style="margin: 0; color: #E0234E;">Experiential Showcases</h4>
+        <p style="margin: 8px 0; font-size: 13px; color: #c9d1d9;">Particle physics, interactive celebration canvases, and responsive touch-reactive particle fireworks.</p>
+        <p align="center">
+          <a href="https://janamashtamii.netlify.app" target="_blank">
+            <img src="https://img.shields.io/badge/Janmashtami-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+          </a>
+          &nbsp;
+          <a href="https://github.com/akaAkshat246/Merry_Christmas" target="_blank">
+            <img src="https://img.shields.io/badge/Christmas-E0234E?style=for-the-badge&logo=github"/>
+          </a>
+        </p>
+      </blockquote>
     </td>
   </tr>
 </table>
+
 
 
 ## Tech Stack Arsenal
