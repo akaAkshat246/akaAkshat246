@@ -26,9 +26,6 @@
   <a href="#hackathons--achievements"><b>[ Achievements ]</b></a> •
   <a href="#connect"><b>[ Connect ]</b></a>
 </p>
-
-<img src="./assets/cyber-divider.svg" width="100%" alt="Divider" />
-
 </div>
 
 ## About Me
@@ -53,10 +50,6 @@
 }
 ```
 
-<div align="center">
-  <img src="./assets/cyber-divider.svg" width="100%" alt="Divider" />
-</div>
-
 ## Contribution Snake Game
 
 <p align="center">
@@ -72,10 +65,6 @@
 </div>
 
 > **Automation**: Powered by `platane/snk` via GitHub Actions `.github/workflows/snake.yml`. It regenerates automatically every 12 hours with fresh live commits.
-
-<div align="center">
-  <img src="./assets/cyber-divider.svg" width="100%" alt="Divider" />
-</div>
 
 ## Featured Projects
 
@@ -229,10 +218,6 @@
   </tbody>
 </table>
 
-<div align="center">
-  <img src="./assets/cyber-divider.svg" width="100%" alt="Divider" />
-</div>
-
 ## Tech Stack Arsenal
 
 <div align="center">
@@ -259,10 +244,6 @@
 
 </div>
 
-<div align="center">
-  <img src="./assets/cyber-divider.svg" width="100%" alt="Divider" />
-</div>
-
 ## GitHub Metrics & Activity
 
 <div align="center">
@@ -283,10 +264,6 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akaAkshat246&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=FF007F&currStreakLabel=00F0FF&currStreakNum=00F0FF" alt="GitHub Streak" width="95%" />
 
-</div>
-
-<div align="center">
-  <img src="./assets/cyber-divider.svg" width="100%" alt="Divider" />
 </div>
 
 ## Hackathons & Achievements
@@ -324,10 +301,6 @@
 - **On Repeat**: Synthwave and Lo-Fi coding frequencies.
 
 </details>
-
-<div align="center">
-  <img src="./assets/cyber-divider.svg" width="100%" alt="Divider" />
-</div>
 
 ## Connect
 
