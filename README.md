@@ -64,7 +64,6 @@
   </picture>
 </div>
 
-> **Automation**: Powered by `platane/snk` via GitHub Actions `.github/workflows/snake.yml`. It regenerates automatically every 12 hours with fresh live commits.
 
 ## Featured Projects
 
