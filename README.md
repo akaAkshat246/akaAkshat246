@@ -68,7 +68,7 @@
 ## Featured Projects & Innovations
 
 <table width="100%">
-  <!-- ROW 1: FLAGSHIP PLATFORMS -->
+  <!-- ROW 1: HEALTHCARE & CAMPUS -->
   <tr>
     <td width="50%" valign="top">
       <a href="https://aarogya-grid-ai-alpha.vercel.app/" target="_blank">
@@ -102,7 +102,7 @@
     </td>
   </tr>
 
-  <!-- ROW 2: 3D WEBGL & EDGE PLATFORMS -->
+  <!-- ROW 2: 3D COMPANION & EDGE PLATFORM -->
   <tr>
     <td width="50%" valign="top">
       <a href="https://ha-x-baby-ten.vercel.app/" target="_blank">
@@ -136,25 +136,10 @@
     </td>
   </tr>
 
-  <!-- ROW 3: COMMUNITY TOOLS & AI DIAGNOSTICS -->
+  <!-- ROW 3: AI DIAGNOSTICS & SENSORY CANVAS -->
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/akaAkshat246/EcoScore-Browser-Extension" target="_blank">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akaAkshat246&repo=EcoScore-Browser-Extension&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E3A008&icon_color=00F0FF&text_color=E6EDF3" width="100%" alt="EcoScore Pin" />
-      </a>
-      <br/>
-      <p align="center">
-        <a href="https://github.com/akaAkshat246/EcoScore-Browser-Extension" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub_Stars-16-yellow?style=for-the-badge&logo=github"/>
-        </a>
-        &nbsp;
-        <a href="https://github.com/akaAkshat246/EcoScore-Browser-Extension" target="_blank">
-          <img src="https://img.shields.io/badge/Manifest_V3-30363d?style=for-the-badge"/>
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <blockquote style="margin: 0; padding: 16px; border-left: 3px solid #00F0FF; background: #0D1117; border-radius: 8px;">
+      <blockquote style="margin: 0; padding: 18px; border-left: 3px solid #00F0FF; background: #0D1117; border-radius: 8px;">
         <h4 style="margin: 0; color: #00F0FF;">Debug Assistant</h4>
         <p style="margin: 8px 0; font-size: 13px; color: #c9d1d9;">Automated AI code diagnostic engine that inspects stack traces, isolates defects, and synthesizes validated patches.</p>
         <p align="center">
@@ -166,10 +151,6 @@
         </p>
       </blockquote>
     </td>
-  </tr>
-
-  <!-- ROW 4: SENSORY & EXPERIENTIAL CREATIONS -->
-  <tr>
     <td width="50%" valign="top">
       <a href="https://akaakshat246.github.io/my-project/" target="_blank">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=akaAkshat246&repo=my-project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=7000FF&text_color=E6EDF3" width="100%" alt="MoodScape Pin" />
@@ -185,20 +166,50 @@
         </a>
       </p>
     </td>
+  </tr>
+
+  <!-- ROW 4: EXPERIENTIAL & FESTIVE APPS -->
+  <tr>
     <td width="50%" valign="top">
-      <blockquote style="margin: 0; padding: 16px; border-left: 3px solid #E0234E; background: #0D1117; border-radius: 8px;">
-        <h4 style="margin: 0; color: #E0234E;">Experiential Showcases</h4>
-        <p style="margin: 8px 0; font-size: 13px; color: #c9d1d9;">Particle physics, interactive celebration canvases, and responsive touch-reactive particle fireworks.</p>
-        <p align="center">
-          <a href="https://janamashtamii.netlify.app" target="_blank">
-            <img src="https://img.shields.io/badge/Janmashtami-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-          </a>
-          &nbsp;
-          <a href="https://github.com/akaAkshat246/Merry_Christmas" target="_blank">
-            <img src="https://img.shields.io/badge/Christmas-E0234E?style=for-the-badge&logo=github"/>
-          </a>
-        </p>
-      </blockquote>
+      <a href="https://janamashtamii.netlify.app" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akaAkshat246&repo=happy-janamashtami&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C7B7&icon_color=00F0FF&text_color=E6EDF3" width="100%" alt="Happy Janmashtami Pin" />
+      </a>
+      <br/>
+      <p align="center">
+        <a href="https://janamashtamii.netlify.app" target="_blank">
+          <img src="https://img.shields.io/badge/Janmashtami_Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/akaAkshat246/happy-janamashtami" target="_blank">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://christmas-site-demo.vercel.app/" target="_blank">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=akaAkshat246&repo=Merry_Christmas&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=E0234E&icon_color=FF007F&text_color=E6EDF3" width="100%" alt="Merry Christmas Pin" />
+      </a>
+      <br/>
+      <p align="center">
+        <a href="https://christmas-site-demo.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Christmas_Live-E0234E?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
+        &nbsp;
+        <a href="https://github.com/akaAkshat246/Merry_Christmas" target="_blank">
+          <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+
+  <!-- ROW 5: MANY MORE REPOSITORIES REDIRECT BOX -->
+  <tr>
+    <td colspan="2" align="center" style="padding: 24px; background: #161b22; border-radius: 8px; border: 1px dashed #00F0FF;">
+      <a href="https://github.com/akaAkshat246?tab=repositories" target="_blank" style="text-decoration: none;">
+        <h3 style="color: #00F0FF; margin: 0 0 6px 0;">Many More...</h3>
+        <p style="color: #8b949e; font-size: 13px; margin: 0 0 14px 0;">Explore 30+ open-source repositories, developer tools, and creative experiments.</p>
+        <img src="https://img.shields.io/badge/Explore_All_Repositories-00F0FF?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117" alt="Explore All Repositories" />
+      </a>
     </td>
   </tr>
 </table>
